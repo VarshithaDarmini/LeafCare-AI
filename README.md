@@ -41,7 +41,7 @@ Overall, LeafCare AI showcases a complete end-to-end pipeline—from data prepro
 * 🌐 Interactive and user-friendly interface
 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend:**
 
