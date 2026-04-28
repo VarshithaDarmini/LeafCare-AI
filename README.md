@@ -105,12 +105,7 @@ python app.py
 ### 4. Run Frontend
 
 cd frontend
-python -m http.server 5500
 
-Open:
-http://localhost:5500
-
----
 
 ## 📊 Results
 
