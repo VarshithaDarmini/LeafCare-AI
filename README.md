@@ -30,7 +30,6 @@ Additionally, the system is optimized for fast inference (typically under a few 
 Overall, LeafCare AI showcases a complete end-to-end pipeline—from data preprocessing and model training to deployment and user interaction—making it a practical and scalable AI solution in the agricultural domain.
 
 
----
 
 ## 🚀 Features
 
@@ -41,7 +40,6 @@ Overall, LeafCare AI showcases a complete end-to-end pipeline—from data prepro
 * 🔊 Voice explanation support
 * 🌐 Interactive and user-friendly interface
 
----
 
 ## 🛠 Tech Stack
 
@@ -62,7 +60,6 @@ Overall, LeafCare AI showcases a complete end-to-end pipeline—from data prepro
 * TensorFlow / Keras
 * Convolutional Neural Network (CNN)
 
----
 
 ## 📂 Dataset
 
@@ -71,7 +68,6 @@ Due to size limitations, the dataset is not included in this repository.
 📥 Download dataset:
 https://drive.google.com/drive/folders/1q89SPISqzlzfJyw9NBAWjEtAL8DU7S0G?usp=sharing
 
----
 
 ## 🧠 Trained Model
 
@@ -80,7 +76,6 @@ The trained model is hosted externally.
 📥 Download model (.keras):
 https://drive.google.com/file/d/1QsuoR4L2aY025sY-R-nYd6j9w_JCRFTo/view?usp=sharing
 
----
 
 ## ⚙️ Model Details
 
@@ -94,7 +89,6 @@ https://drive.google.com/file/d/1QsuoR4L2aY025sY-R-nYd6j9w_JCRFTo/view?usp=shari
   * Tomato Mosaic Virus
   * Tomato Bacterial Spot
 
----
 
 ## ⚙️ How It Works
 
@@ -132,7 +126,6 @@ cd frontend
 * Model Accuracy: ~90% (approximate)
 * Prediction Time: < 2 seconds
 
----
 
 ## 🌐 Project Link
 
@@ -146,4 +139,3 @@ AI/ML Student
 
 GitHub: https://github.com/VarshithaDarmini
 
----
