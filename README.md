@@ -5,10 +5,31 @@ AI-powered plant disease detection web app using TensorFlow and Flask.
 
 ## 📌 Project Overview
 
-LeafCare AI is a full-stack AI-powered web application that detects plant leaf diseases using deep learning techniques.
-Users can upload a leaf image and instantly receive disease predictions along with confidence score, causes, cures, and prevention methods.
+## 📌 Project Overview
 
-This project integrates **Machine Learning, Backend Development, and Frontend UI** to solve real-world agricultural problems.
+LeafCare AI is a full-stack, AI-powered web application designed to detect plant leaf diseases using deep learning techniques. The system leverages a Convolutional Neural Network (CNN) model trained on labeled plant leaf images to accurately classify diseases across multiple crop types.
+
+Users can upload an image of a plant leaf through an intuitive web interface. The image is processed by a Flask-based backend, where it is preprocessed (resized, normalized) and passed to the trained TensorFlow model for inference. The system then returns a prediction that includes:
+
+* Disease name
+* Confidence score (probability of prediction)
+* Cause of the disease
+* Recommended cure
+* Preventive measures
+
+The application is designed to provide **instant, easy-to-understand diagnostics**, making it useful for farmers, students, and researchers who need quick insights into plant health without requiring expert knowledge.
+
+This project demonstrates the integration of multiple domains:
+
+* **Machine Learning**: Designing and training a CNN model for image classification
+* **Backend Development**: Building REST APIs using Flask for handling image uploads and predictions
+* **Frontend Development**: Creating a responsive UI for user interaction and result visualization
+* **Applied AI in Agriculture**: Addressing real-world problems like crop disease detection
+
+Additionally, the system is optimized for fast inference (typically under a few seconds) and can be extended to support more crop types, real-time camera input, and mobile-based applications.
+
+Overall, LeafCare AI showcases a complete end-to-end pipeline—from data preprocessing and model training to deployment and user interaction—making it a practical and scalable AI solution in the agricultural domain.
+
 
 ---
 
@@ -118,18 +139,6 @@ cd frontend
 
 GitHub Repository:
 https://github.com/VarshithaDarmini/LeafCare-AI
-
----
-
-## 💡 Future Improvements
-
-* Increase dataset size
-* Improve model accuracy
-* Add more plant disease classes
-* Mobile application integration
-* Real-time camera detection
-
----
 
 ## 👩‍💻 Author
 
