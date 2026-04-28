@@ -1,10 +1,10 @@
 # LeafCare-AI
 AI-powered plant disease detection web app using TensorFlow and Flask.
 
-# 🌿 LeafCare AI — Plant Disease Detection System
+#  LeafCare AI — Plant Disease Detection System
 
 
-## 📌 Project Overview
+##  Project Overview
 
 LeafCare AI is a full-stack, AI-powered web application designed to detect plant leaf diseases using deep learning techniques. The system leverages a Convolutional Neural Network (CNN) model trained on labeled plant leaf images to accurately classify diseases across multiple crop types.
 
@@ -31,7 +31,7 @@ Overall, LeafCare AI showcases a complete end-to-end pipeline—from data prepro
 
 
 
-## 🚀 Features
+##  Features
 
 * 📷 Upload leaf images
 * 🤖 AI-based disease detection using CNN
@@ -69,7 +69,7 @@ Due to size limitations, the dataset is not included in this repository.
 https://drive.google.com/drive/folders/1q89SPISqzlzfJyw9NBAWjEtAL8DU7S0G?usp=sharing
 
 
-## 🧠 Trained Model
+##  Trained Model
 
 The trained model is hosted externally.
 
@@ -77,7 +77,7 @@ The trained model is hosted externally.
 https://drive.google.com/file/d/1QsuoR4L2aY025sY-R-nYd6j9w_JCRFTo/view?usp=sharing
 
 
-## ⚙️ Model Details
+##  Model Details
 
 * Model Type: Convolutional Neural Network (CNN)
 * Input Size: 128 × 128 images
@@ -90,7 +90,7 @@ https://drive.google.com/file/d/1QsuoR4L2aY025sY-R-nYd6j9w_JCRFTo/view?usp=shari
   * Tomato Bacterial Spot
 
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User uploads a leaf image
 2. Image is sent to Flask backend
@@ -100,7 +100,7 @@ https://drive.google.com/file/d/1QsuoR4L2aY025sY-R-nYd6j9w_JCRFTo/view?usp=shari
 
 ---
 
-## ▶️ How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone Repository
 
@@ -121,18 +121,18 @@ python app.py
 cd frontend
 
 
-## 📊 Results
+##  Results
 
 * Model Accuracy: ~90% (approximate)
 * Prediction Time: < 2 seconds
 
 
-## 🌐 Project Link
+##  Project Link
 
 GitHub Repository:
 https://github.com/VarshithaDarmini/LeafCare-AI
 
-## 👩‍💻 Author
+##  Author
 
 Varshitha Darmini
 AI/ML Student
